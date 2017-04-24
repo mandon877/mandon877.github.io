@@ -1,37 +1,8 @@
 # mandon877.github.io
-예제 입니다.
-============
-GFM은
-—
-다음과
-같이
->사용이
->>가능합니다.
->###어렵지 않습니다.
-코드 표현방법
-————-
-“`
-var i = 0
-“`
-
-var foo = “bar”
-<html> </html>
-##리스트 표현방법
-+ 플러스
-* 별
-– 하이픈
-###숫자리스트
-1. 숫자
-1. 숫자
-### 링크
-[블로그](teragoon.wordpress.com)
-#주의
-1. 이렇게 해야합니다.
-
-“`
-var i = 0;
-“`
-2. 이건 안됩니다.
-
-var i = 0;
-* 숫자 리스트로 하면 숫자가 유지됩니다.
+<html>
+<body>
+<h3>Simple Storage dApp 예제 [mandon877]</h3>
+<li>컨트랙트 주소: <span id="contractAddr"></span></li>
+</body>
+</html>
+[블록체인 PROJECT](mandon877.github.io/jjhSimpleStorage.html)
