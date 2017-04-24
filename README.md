@@ -28,6 +28,8 @@ HTML 소스<br>
 <p>
 <a href="http://www.chaintalk.io/archive/lecture?sca=%EB%82%98%EB%8F%84+dApp+%EA%B0%9C%EB%B0%9C"><i>나도 dApp 개발해 보자 시리즈 by Atomrigs © 2017</i></a>
 </p>
+<ul>  
+    <li>[1.블록체인 - SimpleStorage.html](mandon877.github.io/SimpleStorage.html)</li>  <li>컨트랙트에 저장된 값: <span id="storedData"></span> <button onclick="getValue()">새로고침</button> (현재블록: <span id="lastBlock"></span>)</li>  <li><input id="newValue" type="text"><button onclick="setValue()">새 값으로 저장하기</button>      <div id="result"></div></li>  <li>새 값을 저장한 후 팬딩 트랜잭션이 블록에 포함되면 자동으로 페이지가 업데이트될 것입니다.   %%%% </li></ul>
 </body>
 <script src="https://cdn.rawgit.com/ethereum/web3.js/develop/dist/web3.js"></script>
 <!-- script src="https://code.jquery.com/jquery-3.1.1.slim.min.js"></script -->
@@ -105,5 +107,5 @@ function setValue() {
 
 ### 링크
 [1.블록체인 - SimpleStorage.html](mandon877.github.io/SimpleStorage.html)
-[2.네이버 - www.naver.com](www.naver.com)
+[2.네이버 - www.naver.com](http://www.naver.com)
 [3.나도 dApp 개발 | 나도 dApp 개발해보자 (5) - 첫번째 dApp 의 완성](http://www.chaintalk.io/archive/lecture/501)
