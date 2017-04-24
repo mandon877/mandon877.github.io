@@ -1,4 +1,13 @@
 <html>
+<meta charset="UTF-8">
+  <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/milligram/1.2.3/milligram.min.css">
+  <title>Simple Storage Dapp 예제 [mandon877]</title>
+  <style>
+    body {margin-left:50px;}
+    #storedData {font-size:300%; margin-right:10px;}
+    #newValue {width: 200px; margin-right:10px; text-align:right;}
+  </style>
 <body>
 <h3>Simple Storage dApp 예제 [mandon877]</h3>
 <ul>
