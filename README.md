@@ -102,4 +102,4 @@ function setValue() {
 
 </script>
 </html>
-[블록체인 PROJECT](mandon877.github.io/jjhSimpleStorage.html)
+[블록체인 PROJECT](mandon877.github.io/SimpleStorage.html)
