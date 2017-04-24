@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <meta charset="UTF-8">
   <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
